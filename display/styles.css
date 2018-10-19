@@ -1,0 +1,22 @@
+
+body {background: rgb(172, 91, 91); text-align: center;}
+
+section > article {
+    width: 200px; height: 200px;
+    display: inline-block;
+    margin: 30px 10px 40px 50px;
+    border-radius: 100px;
+}
+article.azul {background: #0000ff;}
+article.verde {background: green;}
+
+#rarito {
+    width: 300px; height: 100px;
+    background: RGBA(34,56,45,0.4);
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 100 px;
+    border-bottom: 2px solid black;
+    border-radius: 20px;
+    }

@@ -1,0 +1,16 @@
+body {background-color: lightcoral; color: rebeccapurple}
+p {color: white;
+    font-size:20px;
+    background-color:rgba(0, 0, 255, 0.733); 
+    width: 300px; 
+    padding: 20px; 
+    margin: 50px}
+p.azul {background: blue}
+p.rojo {background: red}
+
+.bordeado {border: 2px dashed yellow}
+
+h1 {font-size: 40px; color: rgba(255, 0, 0, 0.479)}
+header> div> img {width: 100px;}
+article > div {width: 500px; border: 2px solid blue}
+article > div img {width: 100%}
